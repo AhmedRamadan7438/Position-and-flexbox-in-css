@@ -1,0 +1,112 @@
+
+
+.kids_area
+{
+    display:flex;
+    justify-content: space-between;
+    background-color:black;
+    /* margin-top:50px; */
+    height:500px;
+    
+}
+
+.img-kids{
+    width: 500px;
+    margin-left:200px;
+}
+
+.speaks
+{
+    position: relative;
+    top:100px;
+    right:50px;
+}
+
+img{
+    width:100%
+}
+
+.speaks h1{
+    color:white;
+
+}
+
+.speaks p{
+color:white;
+font-size: 20px;
+text-transform: capitalize;
+}
+
+.h1-udemy-1{
+     margin-left:30px;
+     text-transform: capitalize;
+}
+.udemy-1{
+    display:flex;
+    justify-content: space-between;
+    margin-top:40px; 
+    
+}
+
+
+.div-udemy-1{
+    margin-left:20px;
+    
+}
+
+.p-udemy-1{
+    text-transform: capitalize;
+    font-size:20px;
+    font-weight: bold;
+}
+
+/* udemy section _2 */
+
+
+.udemy-2{
+    display:flex;
+    justify-content: space-between;
+    margin-top:25px;
+}
+
+.h1-footer{
+    text-transform:capitalize;
+    font-weight: bold;
+}
+
+.footer{
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+    top:50px;
+}
+
+a
+{
+    text-decoration: none;
+}
+a:hover{
+    color: blue;
+}
+
+ul li {
+    list-style: noen;
+}
+
+.h1-footer{
+    margin-top:30px;
+}
+
+h2{
+    text-transform: capitalize;
+    margin-left:22px;
+}
+
+
+
+
+
+
+
+
+
